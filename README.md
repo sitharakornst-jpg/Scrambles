@@ -1,4 +1,4 @@
-Dessert Clicker app
+Scramble app
 =====================
 
 Code for Android Basics with Compose Codelab.
